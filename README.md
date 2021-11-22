@@ -30,4 +30,4 @@ While it is evident that the cost of fares increases with a decrease in the numb
 1. The number of cities per type: if each city type were to have the same amount of cities represented in the data, would we see different results?
 2. Whether certain cities skew the data for each city type: offering far fewer rides/far greater, or charging far less per ride/far greater
 3. The length of each trip: longer rides may imply an increase in the cost of fare which may be why rural rides are more expensive
-4. The time of year when more trips take place: there is a slight dip in the multi-line chart right at the beginning of January; why is that? Can the data tell us?
+4. The time of year when more trips take place: in January, each city type collects a bit less in fares; why is that? Can the data tell us?
