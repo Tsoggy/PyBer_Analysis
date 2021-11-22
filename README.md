@@ -28,6 +28,6 @@ The different city types display very different data:
 #### Business Recommendations
 While it is evident that the cost of fares increases with a decrease in the number of rides and drivers, we may still be missing some measurements that may answer why this is the case. Why do urban cities collect more total fare while the cost of each ride and the salary per driver is less? Conversely, why do rural cities collect the least total fare while the cost of each ride and salary per driver is more? To get a more accurate picture, we should take an additional look at:
 1. The number of cities per type: if each city type were to have the same amount of cities represented in the data, would we see different results?
-2. Whether certain cities skew the data for each city type: offering far fewer rides/far greater, or charging far less per ride/far greater
+2. Whether certain cities skew the data for each city type: offering far fewer or far greater number of rides that other cities in that city type, or charging far less per or far greater per ride than other cities in that city type
 3. The length of each trip: longer rides may imply an increase in the cost of fare which may be why rural rides are more expensive
 4. The time of year when more trips take place: in January, each city type collects a bit less in fares; why is that? Can the data tell us?
