@@ -10,7 +10,7 @@ When merging this data together, we are able to analyze:
 2. How many drivers there are per city and the average amount of drivers per city type
 3. How much fare collected per city and the average fare per city type
 
-Our merged DataFrame is below:                        
+Our merged data is below:                        
 ![Total Rides](Resources/Total_Rides.png)
 
 #### Additional analysis
@@ -21,7 +21,7 @@ Our multi-line chart is below:
 
 #### Results
 The different city types display very different data:
-1. Riders: it is evident that urban cities have many more rides (, with suburban cities coming in second, and rural cities having the fewest rides.\
-2. Average rides: 
-3. Overall Fares: it is evident that urban cities collect more fares overall, with suburban cities coming in second, and rural cities collecting the least.
-4. Average cost of Fare: 
+- While urban cities lead with the most amount of rides and the greatest fare collected overall, the cost of each ride and salary to the driver is far less.
+- While rural cities have the least amount of rides and the lowest fare collected overall, the cost of each ride and salary to the driver is the highest.
+
+
