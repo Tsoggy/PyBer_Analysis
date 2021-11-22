@@ -16,8 +16,12 @@ Our merged DataFrame is below:
 #### Additional analysis
 In addition, we took a look at a segment of data produced across 4 months: January 1, 2019 through April 29, 2019. This data was then plotted onto a multi-line chart with results per week.
 
-Our multiline chart is below:
+Our multi-line chart is below:
 ![Plot](Resources/Plot.png)
 
 #### Results
-
+The different city types display very different data:
+1. Riders: it is evident that urban cities have many more rides (, with suburban cities coming in second, and rural cities having the fewest rides.\
+2. Average rides: 
+3. Overall Fares: it is evident that urban cities collect more fares overall, with suburban cities coming in second, and rural cities collecting the least.
+4. Average cost of Fare: 
