@@ -26,10 +26,8 @@ The different city types display very different data:
 - Suburban cities are right in the middle of all of the data: not the highest number of rides, nor lowest; not the highest number of drivers nor lowest; not the highest cost of fare and salary to the driver, nor lowest.
 
 #### Business Recommendations
-While it is evident that the cost of fares declines with the number of rides and drivers in the type of city, we may still be missing some measurements that may answer why this is the case. Why do urban cities collect more total fare while the cost of each ride is less and the salary to, why rural cities collect the least total fare while the cost of each ride is more, etc.. To do this, we can take a look at:
-1. The number of cities per type
-2. The length of each trip
-3. The time of year when more trips take place
-4. Whether certain cities skew the data by having very few and very many rides; very inexpensive or very expensive rides, etc.
-
-In addition, it would be valuable to know what sort of information V. Isualize is looking for: does she want a proposal to increase ridership, one that lowers the cost of fare for customers, one th? 
+While it is evident that the cost of fares increases with a decrease in the number of rides and drivers, we may still be missing some measurements that may answer why this is the case. Why do urban cities collect more total fare while the cost of each ride and the salary per driver is less? Conversely, why do rural cities collect the least total fare while the cost of each ride and salary per driver is more? To get a more accurate picture, we should take an additional look at:
+1. The number of cities per type: if each city type were to have the same amount of cities represented in the data, would we see different results?
+2. Whether certain cities skew the data for each city type: offering far fewer rides/far greater, or charging far less per ride/far greater
+3. The length of each trip: longer rides may imply an increase in the cost of fare which may be why rural rides are more expensive
+4. The time of year when more trips take place: there is a slight dip in the multi-line chart right at the beginning of January; why is that? Can the data tell us?
