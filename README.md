@@ -10,7 +10,7 @@ When merging this data together, we are able to analyze:
 2. How many drivers there are per city and the average amount of drivers per city type
 3. How much fare collected per city and the average fare per city type
 
-Our merged DataFrame is below:
+Our merged DataFrame is below:                        
 ![Total Rides](Resources/Total_Rides.png)
 
 #### Additional analysis
