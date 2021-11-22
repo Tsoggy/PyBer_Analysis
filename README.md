@@ -23,5 +23,11 @@ Our multi-line chart is below:
 The different city types display very different data:
 - While urban cities lead with the most amount of rides and the greatest fare collected overall, the cost of each ride and salary to the driver is far less.
 - While rural cities have the least amount of rides and the lowest fare collected overall, the cost of each ride and salary to the driver is the highest.
+- Suburban cities are right in the middle of all of the data: not the highest number of rides, nor lowest; not the highest number of drivers nor lowest; not the highest cost of fare and salary to the driver, nor lowest.
+Based on the multi-line chart, we can also infer that:
+- 
+
+#### Business Recommendations
+
 
 
